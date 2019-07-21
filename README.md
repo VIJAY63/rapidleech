@@ -1,10 +1,8 @@
-==> For Support Related Rapidleech Visit - www.rapidleech.com 
 
-==> Last Update - January,2016 
+
+==> Last Update - July,2019 
 
 ==> Latest Version - Rev.431 
-
-==> Active Contributors - 1
 
 ==> Notes
 * RAR5 Is Now Supported.
@@ -19,4 +17,6 @@ For end-users, you may search on our forum for readily available installed scrip
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay63/Rapidleech)
+
+
